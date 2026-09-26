@@ -30,10 +30,10 @@ while True:
                 liked = input('Введите вариант ответа: ')
                 if liked == '1':
                     special_func = 0
-                    print('Спасибо за5отзыв! Вы лучший пользователь<3')
+                    print('Спасибо за отзыв! Вы лучший пользователь<3')
                     break
                 elif liked == '2':
-                    print('Поняла... 5пасибо за отзыв,', name.lower(), ', я запомню...')
+                    print('Поняла... Спасибо за отзыв,', name.lower(), ', я запомню...')
                     special_func = 1
                     break
                 else:
