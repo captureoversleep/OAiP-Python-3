@@ -1,7 +1,7 @@
 name = input('Добро пожаловать! Перед началом введи свое имя: ')
 special_func = 0
 
-if name.lower() == 'никита' or name.lower() == 'семен' or name.lower() == 'илья':
+if name.lower() == 'никита' or name.lower() == 'семен' or name.lower() == 'илья' or name.lower() == 'сергей' or name.lower() == 'серый' or name.lower() == 'вайб-кодер':
     special_func = 1
 
 print('Привет,', name,) 
